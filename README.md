@@ -1,3 +1,3 @@
-I love [Wkipedia](https://ja.wikipedia.org).
+I love [Wkipedia](https://ja.wikipedia.org)!
 
 
