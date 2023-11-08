@@ -5,8 +5,8 @@ th{
   background:orange
   }
 
-th, td {
+ th, td {
   border: 1px solid black;
 }
 
-table { boder-collapse: collapse; }
+table { border-collapse: collapse; }
